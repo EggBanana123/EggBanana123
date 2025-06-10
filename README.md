@@ -1,9 +1,27 @@
-Hi
+yo
 
-- I can sorta code stuff for RSDK (Retro engine)
-- And, umm, thats kinda it
+its a me a dexus
 
+# Programming Languages I Kno
+> [!NOTE]
+if the lanuage is marked with a * then im not good at scripting it but can read it
 
-Other accounts:
-- gamebanana.com/members/2934971 - Gamebanana
-- _eggy_boi- (replace - with _ ) - Discord
+- *HTML
+- *Python
+- Retroscript v2
+- Retroscript v3
+- Retroscript v4 (new & old syntax)
+- *Retroscript v5
+- *C++
+
+# Contact
+ways to contact me!!
+[Discord](discordapp.com/users/1171891080317390971)\
+[GameBanana](https://gamebanana.com/members/2934971)\
+[Bluesky](https://bsky.app/profile/the-nexus.bsky.social)\
+fuck twitter\
+all my homies hate twitter
+
+# olde names
+- The Nexus
+- EggBanana123 (sometimes without the 123)
