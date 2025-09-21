@@ -1,6 +1,6 @@
 yo
 
-its a me a dexus
+its a me a kotas
 
 # Programming Languages I Kno
 > [!NOTE]
