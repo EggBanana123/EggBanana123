@@ -1,5 +1,3 @@
-yo
-
 its a me a kotas
 
 # Programming Languages I Kno
