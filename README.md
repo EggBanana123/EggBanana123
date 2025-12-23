@@ -4,9 +4,9 @@ its a me a kotas
 - Retroscript v2
 - Retroscript v3
 - Retroscript v4 (new & old syntax)
-- C & C++
 
 I also know a little bit of
+- C & C++
 - HTML
 - Python
 - Retroscript v5
